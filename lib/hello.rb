@@ -10,4 +10,5 @@ my_name = gets.strip
 
 # And one more commit for good measure
 puts "Hello, #{my_name}!"
+puts "I wonder if this is testing correctly."
 
